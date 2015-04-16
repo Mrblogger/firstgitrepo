@@ -7,7 +7,6 @@
 
 <bean id="studentbean" class="com.javatpoint.Student">
 <property name="name" value="Vimal Jaiswal"></property>
-
 </bean>
 
 </beans>
